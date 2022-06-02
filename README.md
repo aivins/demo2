@@ -1,6 +1,3 @@
 # This is the git demo
 
-Hello
-
-# This is the new branch
-It is!
+This is the friendly version
