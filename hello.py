@@ -1,3 +1,4 @@
 #!/usr/bin/env python3
 
-print("Hello today world!")
+print("Hello, world!")
+print("This is a new version!")
